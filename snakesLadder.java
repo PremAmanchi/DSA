@@ -1,5 +1,6 @@
 // space complexity : O(m*n)
 // time compelxity : O(m*n)
+// problem link : https://leetcode.com/problems/snakes-and-ladders/description/
 class Solution {
     public int snakesAndLadders(int[][] board) {
         int n  = board.length;
